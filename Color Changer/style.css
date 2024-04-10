@@ -1,0 +1,31 @@
+.button {
+  height: 100px;
+  width: 100px;
+  margin: 0 25px;
+  border: 5px solid black;
+  border-radius: 5px;
+  display: inline-block;
+}
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  padding-bottom: 25px;
+}
+#blue {
+  background-color: blue;
+}
+#gray {
+  background-color: gray;
+}
+#green {
+  background-color: green;
+}
+#yellow {
+  background-color: yellow;
+}
